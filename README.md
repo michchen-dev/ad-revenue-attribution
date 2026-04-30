@@ -179,5 +179,4 @@ MIT
 
 ## 🙏 致谢
 
-本项目基于小米 MiMo Orbit 百万亿 Token 创造者激励计划开发。
 开发过程中使用 Claude Code + MiMo 系列模型进行 AI 辅助编程。
